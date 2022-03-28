@@ -1,3 +1,11 @@
+# Studies Goals
+
+This project helps learn how Context works
+To follow the classes you can visit this website right here
+[Como construir Interfaces Componentizadas e Reutilizável na Pratica com ReactJs](https://youtu.be/F1HqLD6TgCw)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
